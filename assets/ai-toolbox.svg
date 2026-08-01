@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="688" height="104" viewBox="0 0 688 104" role="img" aria-labelledby="title desc">
+  <title id="title">AI and LLM engineering toolbox</title>
+  <desc id="desc">LangChain, LangGraph, Hugging Face, OpenAI, Anthropic, DeepSeek, MLX, Qwen, RAG, Agentic AI, Vector Search, and LLM Evaluation.</desc>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="15" font-weight="600" text-anchor="middle">
+    <rect width="112" height="48" rx="10" fill="#1C3C3C"/>
+    <text x="56" y="30" fill="#FFFFFF">LangChain</text>
+
+    <rect x="120" width="110" height="48" rx="10" fill="#20232A"/>
+    <text x="175" y="30" fill="#FFFFFF">LangGraph</text>
+
+    <rect x="238" width="130" height="48" rx="10" fill="#FFD21E"/>
+    <text x="303" y="30" fill="#111827">Hugging Face</text>
+
+    <rect x="376" width="88" height="48" rx="10" fill="#111827" stroke="#374151"/>
+    <text x="420" y="30" fill="#FFFFFF">OpenAI</text>
+
+    <rect x="472" width="106" height="48" rx="10" fill="#D97757"/>
+    <text x="525" y="30" fill="#FFFFFF">Anthropic</text>
+
+    <rect x="586" width="102" height="48" rx="10" fill="#4D6BFE"/>
+    <text x="637" y="30" fill="#FFFFFF">DeepSeek</text>
+
+    <rect y="56" width="74" height="48" rx="10" fill="#111827" stroke="#374151"/>
+    <text x="37" y="86" fill="#FFFFFF">MLX</text>
+
+    <rect x="82" y="56" width="84" height="48" rx="10" fill="#615CED"/>
+    <text x="124" y="86" fill="#FFFFFF">Qwen</text>
+
+    <rect x="174" y="56" width="72" height="48" rx="10" fill="#0284C7"/>
+    <text x="210" y="86" fill="#FFFFFF">RAG</text>
+
+    <rect x="254" y="56" width="110" height="48" rx="10" fill="#7C3AED"/>
+    <text x="309" y="86" fill="#FFFFFF">Agentic AI</text>
+
+    <rect x="372" y="56" width="126" height="48" rx="10" fill="#059669"/>
+    <text x="435" y="86" fill="#FFFFFF">Vector Search</text>
+
+    <rect x="506" y="56" width="146" height="48" rx="10" fill="#E11D48"/>
+    <text x="579" y="86" fill="#FFFFFF">LLM Evaluation</text>
+  </g>
+</svg>
