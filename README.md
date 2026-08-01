@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://jabir-khan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
+  <a href="https://jabir-khan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/jabirkhan-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:khanjabir909@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 </p>
@@ -109,6 +109,23 @@ My current work explores **agent orchestration, retrieval and grounding, local i
 - **Fast, but legible** — strong abstractions, documented decisions, and systems another engineer can operate.
 
 ### Core toolbox
+
+<p><strong>AI &amp; LLM engineering</strong></p>
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&amp;logo=langchain&amp;logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-20232A?style=flat-square&amp;logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&amp;logo=huggingface&amp;logoColor=111827" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&amp;logoColor=white" alt="DeepSeek" />
+  <img src="https://img.shields.io/badge/MLX-111827?style=flat-square&amp;logo=apple&amp;logoColor=white" alt="MLX" />
+  <img src="https://img.shields.io/badge/Qwen-615CED?style=flat-square&amp;logoColor=white" alt="Qwen" />
+  <img src="https://img.shields.io/badge/RAG-0284C7?style=flat-square&amp;logoColor=white" alt="Retrieval-Augmented Generation" />
+  <img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat-square&amp;logoColor=white" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Vector_Search-059669?style=flat-square&amp;logoColor=white" alt="Vector Search" />
+  <img src="https://img.shields.io/badge/LLM_Evaluation-E11D48?style=flat-square&amp;logoColor=white" alt="LLM Evaluation" />
+</p>
+
+<p><strong>Full-stack &amp; platform engineering</strong></p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,nodejs,tailwind,postgres,supabase,docker,git,github&amp;perline=12" alt="Python, TypeScript, JavaScript, Next.js, React, Node.js, Tailwind CSS, PostgreSQL, Supabase, Docker, Git, and GitHub" />
