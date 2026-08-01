@@ -26,7 +26,7 @@
 
 ### Hello, I'm Jabir 👋
 
-I'm an **AI/ML engineer and full-stack developer**, currently at **Emirates NBD**. I work at the intersection of applied AI and product engineering—building useful LLM systems without losing sight of reliability, privacy, explainability, or user control.
+I'm an **AI/ML engineer and full-stack developer based in the UAE**, currently at **Emirates NBD**. I work at the intersection of applied AI and product engineering—building useful LLM systems without losing sight of reliability, privacy, explainability, or user control.
 
 ```ts
 const jabir = {
@@ -113,16 +113,18 @@ My current work explores **agent orchestration, retrieval and grounding, local i
 <p><strong>AI &amp; LLM engineering</strong></p>
 
 <p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&amp;logo=langchain&amp;logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-20232A?style=flat-square&amp;logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&amp;logo=huggingface&amp;logoColor=111827" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&amp;logoColor=white" alt="DeepSeek" />
-  <img src="https://img.shields.io/badge/MLX-111827?style=flat-square&amp;logo=apple&amp;logoColor=white" alt="MLX" />
-  <img src="https://img.shields.io/badge/Qwen-615CED?style=flat-square&amp;logoColor=white" alt="Qwen" />
-  <img src="https://img.shields.io/badge/RAG-0284C7?style=flat-square&amp;logoColor=white" alt="Retrieval-Augmented Generation" />
-  <img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat-square&amp;logoColor=white" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/Vector_Search-059669?style=flat-square&amp;logoColor=white" alt="Vector Search" />
-  <img src="https://img.shields.io/badge/LLM_Evaluation-E11D48?style=flat-square&amp;logoColor=white" alt="LLM Evaluation" />
+  <img height="48" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&amp;logo=langchain&amp;logoColor=white" alt="LangChain" />
+  <img height="48" src="https://img.shields.io/badge/LangGraph-20232A?style=flat-square&amp;logoColor=white" alt="LangGraph" />
+  <img height="48" src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&amp;logo=huggingface&amp;logoColor=111827" alt="Hugging Face" />
+  <img height="48" src="https://img.shields.io/badge/OpenAI-111827?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="OpenAI" />
+  <img height="48" src="https://img.shields.io/badge/Anthropic-D97757?style=flat-square&amp;logo=anthropic&amp;logoColor=white" alt="Anthropic" />
+  <img height="48" src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&amp;logoColor=white" alt="DeepSeek" />
+  <img height="48" src="https://img.shields.io/badge/MLX-111827?style=flat-square&amp;logo=apple&amp;logoColor=white" alt="MLX" />
+  <img height="48" src="https://img.shields.io/badge/Qwen-615CED?style=flat-square&amp;logoColor=white" alt="Qwen" />
+  <img height="48" src="https://img.shields.io/badge/RAG-0284C7?style=flat-square&amp;logoColor=white" alt="Retrieval-Augmented Generation" />
+  <img height="48" src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat-square&amp;logoColor=white" alt="Agentic AI" />
+  <img height="48" src="https://img.shields.io/badge/Vector_Search-059669?style=flat-square&amp;logoColor=white" alt="Vector Search" />
+  <img height="48" src="https://img.shields.io/badge/LLM_Evaluation-E11D48?style=flat-square&amp;logoColor=white" alt="LLM Evaluation" />
 </p>
 
 <p><strong>Full-stack &amp; platform engineering</strong></p>
