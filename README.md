@@ -26,7 +26,7 @@
 
 ### Hello, I'm Jabir 👋
 
-I'm an **AI/ML engineer and full-stack developer based in the UAE**, currently at **Emirates NBD**. I work at the intersection of applied AI and product engineering—building useful LLM systems without losing sight of reliability, privacy, explainability, or user control.
+I'm an **AI/ML engineer and full-stack developer**, currently at **Emirates NBD**. I work at the intersection of applied AI and product engineering—building useful LLM systems without losing sight of reliability, privacy, explainability, or user control.
 
 ```ts
 const jabir = {
